@@ -1,4 +1,4 @@
-package strings.challenges;
+package challenges;
 
 import java.util.*;
 

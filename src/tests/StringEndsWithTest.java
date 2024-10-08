@@ -1,6 +1,6 @@
-package strings.tests;
+package tests;
 
-import strings.challenges.StringEndsWith;
+import challenges.StringEndsWith;
 
 public class StringEndsWithTest {
     public static void main(String[] args) throws Exception {

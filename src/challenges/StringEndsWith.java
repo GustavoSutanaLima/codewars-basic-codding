@@ -1,9 +1,7 @@
-package strings.challenges;
+package challenges;
 
 public class StringEndsWith {
-    private String stringOne;
-    private String stringDois;
-
+    
     public static boolean solution(String stringOne, String stringTwo) {
         boolean result = false;
         try {
