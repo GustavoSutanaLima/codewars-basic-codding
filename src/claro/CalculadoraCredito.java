@@ -17,7 +17,7 @@ public class CalculadoraCredito {
             for (int i = 0; i < n; i++) {
                 String[] dadosLigacao = scanner.nextLine().trim().split(",");
                 int duracao = Integer.parseInt(dadosLigacao[0].trim());
-                String tipoLigacao = dadosLigacao[1].trim();
+                //String tipoLigacao = dadosLigacao[1].trim();
                 double valorPorMinuto = Double.parseDouble(dadosLigacao[2].trim());
 
                 totalCredito+=duracao*valorPorMinuto;

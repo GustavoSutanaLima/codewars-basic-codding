@@ -3,8 +3,6 @@ package challenges;
 import java.lang.StringBuilder;
 import java.util.MissingFormatArgumentException;
 
-import javax.xml.stream.events.Characters;
-
 public class SolutionTwo{ 
  /*
     * A classe String cria um objeto String que é imutável, ou seja, não é possível alterar o conteúdo de uma 

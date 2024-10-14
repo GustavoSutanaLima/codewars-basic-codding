@@ -20,7 +20,7 @@ class Servico {
 class ComboServicos {
     private Servico[] servicos;
     private double[] descontos;
-    private double descontoAdicional = 20.00;
+    //private double descontoAdicional = 20.00;
 
     public ComboServicos(Servico[] servicos, double[] descontos) {
         this.servicos = servicos;
